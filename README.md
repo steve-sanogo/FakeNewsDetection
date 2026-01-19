@@ -12,7 +12,7 @@ La solution s'appuie sur des outils de Traitement Automatique du Langage Naturel
 Pour plus de détails théoriques et méthodologiques, vous pouvez consulter le fichier `memoire_Steve SANOGO.pdf` inclus dans ce dépôt.
 
 <figure> 
-   <img src="./images/architecture.png" alt="Pipeline">
+   <img src="./images/architecture.png">
    <figcaption>Pipeline</figcaption>
 </figure> 
 
@@ -20,7 +20,7 @@ Pour plus de détails théoriques et méthodologiques, vous pouvez consulter le 
 
 Le projet est organisé comme suit :
 
-<a href="./notebooks"> ### 1. `notebooks/ </a>
+### 1. [notebooks/](./notebooks)
 Ce répertoire contient les scripts Jupyter implémentant le pipeline de traitement :
 
 * **`01_data preprocessing.ipynb`** : 
@@ -33,7 +33,7 @@ Ce répertoire contient les scripts Jupyter implémentant le pipeline de traitem
 * **`03_text summarization BertSUM.ipynb`** : 
     * Utilisation de modèles Transformers (BertSum) pour générer des résumés concis des sujets identifiés.
 
-### 2. `data/`[./data]
+### 2. [data/](./data)
 Ce répertoire contient les jeux de données utilisés et générés par le projet :
 
 * **`baseArticles.json`** : Données brutes issues du Web Scraping, sans aucun traitement préalable.
