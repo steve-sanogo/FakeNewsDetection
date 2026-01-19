@@ -20,7 +20,7 @@ Pour plus de détails théoriques et méthodologiques, vous pouvez consulter le 
 
 Le projet est organisé comme suit :
 
-### 1. `notebooks/`[./notebooks]
+<a href="./notebooks"> ### 1. `notebooks/ </a>
 Ce répertoire contient les scripts Jupyter implémentant le pipeline de traitement :
 
 * **`01_data preprocessing.ipynb`** : 
