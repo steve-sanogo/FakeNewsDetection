@@ -1,7 +1,5 @@
 # Conception d'un modèle de Clustering pour la détection de Fausses Informations
 
-Ce dépôt contient les travaux de recherche et de développement réalisés dans le cadre de mon mémoire de fin de cycle ingénieur à l'**École Supérieure Multinationale des Télécommunications (ESMT)**.
-
 ## 📝 Description du Projet
 
 Face à la prolifération des "Fake News" au Sénégal, ce projet propose une approche de détection basée sur l'apprentissage non supervisé. L'objectif est de grouper les articles de presse en sujets cohérents et d'analyser leur susceptibilité à contenir de la désinformation.
@@ -12,7 +10,9 @@ La solution s'appuie sur des outils de Traitement Automatique du Langage Naturel
 * **Analyse de similarité** : Pour classifier les articles et détecter les potentiels contenus fallacieux.
 
 Pour plus de détails théoriques et méthodologiques, vous pouvez consulter le fichier `memoire_Steve SANOGO.pdf` inclus dans ce dépôt.
-
+<p align="center">
+   <img src="./images/architecture.png">
+</p>
 ## 📂 Structure du Dépôt
 
 Le projet est organisé comme suit :
@@ -68,6 +68,21 @@ L'exécution du projet suit une séquence logique :
 1. **Prétraitement** : Lancez `01_data preprocessing.ipynb` pour nettoyer `baseArticles.json` et générer `processed_baseArticles.json`.
 2. **Modélisation** : Lancez `02_topic modeling BertTopic-LDA.ipynb` pour créer les clusters de sujets à partir des données nettoyées.
 3. **Résumé & Analyse** : Lancez `03_text summarization BertSUM.ipynb` pour générer les résumés et finaliser la base `topicsdb.json`.
+
+## Quelques résultats🖼️
+
+<p align="center">
+   <img src="./images/clusters_articles.png">
+</p>
+
+<p align="center">
+   <img src="./images/cluster_sujet1.png">
+</p>
+
+<p align="center">
+   <img src="./images/cluster_sujet111.png">
+</p
+
 ---
 
 *Ce projet a été réalisé dans un cadre académique à l'ESMT Dakar - Promotion 2020-2023.*
