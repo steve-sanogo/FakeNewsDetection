@@ -20,7 +20,7 @@ Pour plus de détails théoriques et méthodologiques, vous pouvez consulter le 
 
 Le projet est organisé comme suit :
 
-### 1. `notebooks/`
+### 1. `notebooks/`[./notebooks]
 Ce répertoire contient les scripts Jupyter implémentant le pipeline de traitement :
 
 * **`01_data preprocessing.ipynb`** : 
@@ -33,7 +33,7 @@ Ce répertoire contient les scripts Jupyter implémentant le pipeline de traitem
 * **`03_text summarization BertSUM.ipynb`** : 
     * Utilisation de modèles Transformers (BertSum) pour générer des résumés concis des sujets identifiés.
 
-### 2. `data/`
+### 2. `data/`[./data]
 Ce répertoire contient les jeux de données utilisés et générés par le projet :
 
 * **`baseArticles.json`** : Données brutes issues du Web Scraping, sans aucun traitement préalable.
@@ -44,7 +44,7 @@ Ce répertoire contient les jeux de données utilisés et générés par le proj
     * Les mesures de similarité (article vs résumé).
     * Les labels de classification (Fake / NoFake).
 
-### 3. `memoire_Steve SANOGO.pdf`
+### 3. `memoire_Steve SANOGO.pdf`[./memoire_Steve SANOGO.pdf]
 Le document complet du mémoire, fournissant le contexte théorique, l'état de l'art et l'analyse détaillée des résultats.
 
 ## 🚀 Installation et Prérequis
@@ -78,8 +78,6 @@ L'exécution du projet suit une séquence logique :
    <img src="./images/clusters_articles.png" width="600">
    <figcaption>Clusters d'articles de la BD</figcaption>
 </figure> 
-
-
 
 <figure> 
    <img src="./images/cluster_sujet1.png" width="600">
