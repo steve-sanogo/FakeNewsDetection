@@ -12,8 +12,8 @@ La solution s'appuie sur des outils de Traitement Automatique du Langage Naturel
 Pour plus de détails théoriques et méthodologiques, vous pouvez consulter le fichier `memoire_Steve SANOGO.pdf` inclus dans ce dépôt.
 
 <figure> 
-   <img src="./images/architecture.png" alt="Pipeline">
-    <p  align="center"> <figcaption>Pipeline</figcaption> </p> 
+   <img src="./images/architecture.png" alt="Pipeline" width="300">
+   <figcaption>Pipeline</figcaption>
 </figure> 
 
 ## 📂 Structure du Dépôt
@@ -75,20 +75,20 @@ L'exécution du projet suit une séquence logique :
 ## 🖼️ Quelques résultats
 
 <figure> 
-   <img src="./images/clusters_articles.png">
-    <p  align="center"> <figcaption>Clusters d'articles de la BD</figcaption> </p> 
+   <img src="./images/clusters_articles.png" width="300">
+   <figcaption>Clusters d'articles de la BD</figcaption>
 </figure> 
 
 
 
 <figure> 
-   <img src="./images/cluster_sujet1.png">
-    <p  align="center"> <figcaption>Représentation graphique du sujet 1</figcaption> </p> 
+   <img src="./images/cluster_sujet1.png" width="300">
+   <figcaption>Représentation graphique du sujet 1</figcaption>
 </figure>
 
 <figure> 
-   <img src="./images/cluster_sujet111.png">
-    <p  align="center"> <figcaption>Représentation graphique du sujet 111</figcaption> </p> 
+   <img src="./images/cluster_sujet111.png" width="300">
+   <figcaption>Représentation graphique du sujet 111</figcaption>
 </figure>
 
 ---
