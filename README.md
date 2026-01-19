@@ -69,7 +69,7 @@ L'exécution du projet suit une séquence logique :
 2. **Modélisation** : Lancez `02_topic modeling BertTopic-LDA.ipynb` pour créer les clusters de sujets à partir des données nettoyées.
 3. **Résumé & Analyse** : Lancez `03_text summarization BertSUM.ipynb` pour générer les résumés et finaliser la base `topicsdb.json`.
 
-## Quelques résultats🖼️
+## 🖼️ Quelques résultats
 
 <p align="center">
    <img src="./images/clusters_articles.png">
