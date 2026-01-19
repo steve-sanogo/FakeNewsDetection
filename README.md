@@ -2,11 +2,6 @@
 
 Ce dépôt contient les travaux de recherche et de développement réalisés dans le cadre de mon mémoire de fin de cycle ingénieur à l'**École Supérieure Multinationale des Télécommunications (ESMT)**.
 
-**Auteur :** Moussa Steve Belvin SANOGO  
-**Diplôme :** Ingénieur de Conception en Télécommunications  
-**Spécialité :** Ingénierie des Données et Intelligence Artificielle  
-**Thème :** Conception d'un modèle de Clustering pour la détection de Fausses Informations au sein de la presse sénégalaise en ligne.
-
 ## 📝 Description du Projet
 
 Face à la prolifération des "Fake News" au Sénégal, ce projet propose une approche de détection basée sur l'apprentissage non supervisé. L'objectif est de grouper les articles de presse en sujets cohérents et d'analyser leur susceptibilité à contenir de la désinformation.
