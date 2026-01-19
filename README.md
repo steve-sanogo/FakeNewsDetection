@@ -13,7 +13,7 @@ Pour plus de détails théoriques et méthodologiques, vous pouvez consulter le 
 
 <figure> 
    <img src="./images/architecture.png" alt="Pipeline">
-   <figcaption align="center">Pipeline</figcaption> 
+    <p  align="center"> <figcaption>Pipeline</figcaption> </p> 
 </figure> 
 
 ## 📂 Structure du Dépôt
@@ -74,17 +74,22 @@ L'exécution du projet suit une séquence logique :
 
 ## 🖼️ Quelques résultats
 
-<p align="center">
+<figure> 
    <img src="./images/clusters_articles.png">
-</p>
+    <p  align="center"> <figcaption>Clusters d'articles de la BD</figcaption> </p> 
+</figure> 
 
-<p align="center">
+
+
+<figure> 
    <img src="./images/cluster_sujet1.png">
-</p>
+    <p  align="center"> <figcaption>Représentation graphique du sujet 1</figcaption> </p> 
+</figure>
 
-<p align="center">
+<figure> 
    <img src="./images/cluster_sujet111.png">
-</p
+    <p  align="center"> <figcaption>Représentation graphique du sujet 111</figcaption> </p> 
+</figure>
 
 ---
 
