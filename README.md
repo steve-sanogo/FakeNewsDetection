@@ -44,7 +44,7 @@ Ce répertoire contient les jeux de données utilisés et générés par le proj
     * Les mesures de similarité (article vs résumé).
     * Les labels de classification (Fake / NoFake).
 
-### 3. [memoire_Steve SANOGO/](./memoire_Steve SANOGO.pdf)
+### 3. [memoire_Steve SANOGO.pdf/](./memoire_Steve SANOGO.pdf)
 Le document complet du mémoire, fournissant le contexte théorique, l'état de l'art et l'analyse détaillée des résultats.
 
 ## 🚀 Installation et Prérequis
