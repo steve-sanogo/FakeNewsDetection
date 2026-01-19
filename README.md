@@ -13,7 +13,7 @@ Pour plus de détails théoriques et méthodologiques, vous pouvez consulter le 
 
 <figure> 
    <img src="./images/architecture.png" alt="Pipeline">
-   <figcaption>Pipeline</figcaption> 
+   <figcaption align="center">Pipeline</figcaption> 
 </figure> 
 
 ## 📂 Structure du Dépôt
